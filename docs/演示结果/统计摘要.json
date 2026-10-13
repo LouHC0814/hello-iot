@@ -1,0 +1,22 @@
+{
+  "source": "simulated",
+  "说明": "数据由程序模拟生成，不来自真实传感器。",
+  "requested_samples": 120,
+  "collected_samples": 120,
+  "complete": true,
+  "simulated_interval_seconds": 30.0,
+  "start": "2026-10-13T09:00:00+08:00",
+  "end": "2026-10-13T09:59:30+08:00",
+  "temperature_c": {
+    "min": 24.88,
+    "max": 27.54,
+    "mean": 26.42,
+    "latest": 24.88
+  },
+  "humidity_pct": {
+    "min": 53.23,
+    "max": 60.19,
+    "mean": 56.23,
+    "latest": 59.45
+  }
+}
